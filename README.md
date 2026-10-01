@@ -6,3 +6,4 @@ Published security audit reports by [33Labs](https://33labs.ai).
 
 - [Recoup Security Audit Report](reports/recoup-security-audit-report.pdf)
 - [American Spend Security Audit Report](reports/american-spend-security-audit-report.pdf)
+- [Elastic Markets Security Audit Report](reports/elastic-markets-security-audit-report.pdf)
